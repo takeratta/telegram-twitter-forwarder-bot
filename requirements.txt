@@ -1,6 +1,6 @@
 certifi==2016.8.8
 envparse==0.1.6
-future==0.15.2
+future==0.18.3
 oauthlib==1.0.3
 peewee==2.6.4
 python-telegram-bot==5.0.0
